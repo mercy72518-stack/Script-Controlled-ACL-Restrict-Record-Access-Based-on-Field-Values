@@ -1,0 +1,1 @@
+https://dev449579.service-now.com/now/nav/ui/classic/params/target/u_institution_details_list.do%3Fsysparm_clear_stack%3Dtrue
